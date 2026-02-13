@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Building real-world projects using C++, Python, and Web Technologies to strengthen my problem-solving and development skills<br>👯 I’m looking to collaborate on Open-source projects, beginner-friendly repos, and innovative tech ideas.<br>🤝 I’m looking for help with Advanced Data Structures, Competitive Programming, and Full-Stack Development.<br>🌱 I’m currently learning Data Structures & Algorithms, Git/GitHub, Web Development, and System Design basics.<br>💬 Ask me about C++, Python, DSA basics, GitHub, and beginner programming tips.<br>⚡ Fun fact, I love turning complex problems into simple solutions 🚀
+🔭 I’m currently working on Building real-world projects using C++, Python,Java and Web Technologies to strengthen my problem-solving and development skills<br>👯 I’m looking to collaborate on Open-source projects, beginner-friendly repos, and innovative tech ideas.<br>🤝 I’m looking for help with Advanced Data Structures, Competitive Programming, and Full-Stack Development.<br>🌱 I’m currently learning Data Structures & Algorithms, Git/GitHub, Web Development, and System Design basics.<br>💬 Ask me about C++, Python, DSA basics, GitHub, and beginner programming tips.<br>⚡ Fun fact, I love turning complex problems into simple solutions 🚀
 
 
 ## 🌐 Socials:
