@@ -22,47 +22,37 @@
 <br/>
 
 ### 👨‍💻 About Me & What I Do
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>🔭 I’m currently building high-end, <b>Next-Gen AI portfolios</b> with 3D elements.</li>
-        <li>🌱 I’m constantly learning <b>Next.js, WebGL/Three.js, and AI architectures</b>.</li>
-        <li>👯 I’m looking to collaborate on <b>Open Source Software</b> and <b>Creative Web Projects</b>.</li>
-        <li>💬 Ask me about <b>Frontend Development, UI/UX, and AI integrations</b>.</li>
-        <li>⚡ <b>Fun fact:</b> I love finding ways to make the web feel more cinematic and alive!</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif" width="250px" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://user-images.githubusercontent.com/73696489/114419405-050adc00-9bd1-11eb-94ee-46acea810265.gif" width="220" />
+
+- 🔭 I’m currently building high-end, **Next-Gen AI portfolios** with 3D elements.
+- 🌱 I’m constantly learning **Next.js, WebGL/Three.js, and AI architectures**.
+- 👯 I’m looking to collaborate on **Open Source Software** and **Creative Web Projects**.
+- 💬 Ask me about **Frontend Development, UI/UX, and AI integrations**.
+- ⚡ **Fun fact:** I love finding ways to make the web feel more cinematic and alive!
+
+<br/><br/>
 
 ### 🛠️ Languages and Tools
-> <p align="left">
->   <!-- Programming Languages -->
->   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
->   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
->   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
->   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
->   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
->   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
->   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
->   <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="threejs" width="40" height="40"/> </a>
->   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
->   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
->   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
->   <a href="https://figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
->   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
->   <a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vercel/vercel.png" alt="vercel" width="40" height="40"/> </a>
-> </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- Replaced all individual shields with the beautiful, unified SkillIcons block! -->
+    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,threejs,tailwind,nodejs,mongodb,figma,git,vercel&theme=dark&perline=7" alt="Tech Stack" />
+  </a>
+</p>
 
 <br/>
 
-### 🏆 My GitHub Activity
+### 📈 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-anxit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="60%" />
+  <!-- The primary stats API was offline, utilizing Demolab Streak Stats instead to guarantee uptime -->
+  <img src="https://streak-stats.demolab.com/?user=Dev-anxit&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="55%" />
+</div>
+
+<br/>
+
+### 💡 Quote of the Day
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
 </div>
 
 <br/>
@@ -71,10 +61,13 @@
 
 ### 🤝 Connect with me <img align='center' src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Port_HandShake.gif" width="50">
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankit-kumar-baa77a285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://github.com/Dev-anxit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-  <a href="mailto:your.email@example.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="email" height="35" width="40"/> </a>
+  <!-- Swapped to cohesive SkillIcons for the footer socials -->
+  <a href="https://www.linkedin.com/in/ankit-kumar-baa77a285/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="linkedin" height="45" /></a>
+  <a href="https://github.com/Dev-anxit" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github&theme=dark" alt="github" height="45" /></a>
+  <a href="mailto:your.email@example.com"><img align="center" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="email" height="45" /></a>
 </p>
+
+<br/>
 
 <!-- Footer -->
 <div align="center">
