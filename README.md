@@ -62,25 +62,10 @@
 
 ### 🏆 My GitHub Activity
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-anxit&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-anxit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="60%" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-anxit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-anxit&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-### 🐍 GitHub Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dev-anxit/Dev-anxit/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-<p align="center">
-  <i>(Note: You will need to set up the <a href="https://github.com/Platane/snk">GitHub Snake Action</a> for this to animate properly!)</i>
-</p>
 
 ---
 
